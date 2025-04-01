@@ -72,18 +72,6 @@ You will be evaluated on:
    - Clarity of report and presentation
    - Ability to explain technical concepts
 
-## Submission Instructions
-
-Please submit your work as a ZIP file containing:
-- All source code
-- Generated visualisations
-- Your report (PDF format)
-- Presentation slides (PDF format)
-
-## Time Allocation
-
-The assessment is designed to be completed within approximately 6-8 hours of focused work. Please prioritise quality over quantity in your submission.
-
 ## Presentation
 
 You will have 15 minutes to present your work, followed by 5 minutes for questions. Your presentation should cover:
