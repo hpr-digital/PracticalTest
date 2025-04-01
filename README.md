@@ -13,7 +13,7 @@ This assessment is designed to test your skills with data processing, visualisat
 
 ### Part 1: Sonar Data Visualisation (50%)
 
-In this part, you will work with raw sonar data from an ISP360 Profiling Sonar. The data is provided in CSV format and contains mechanical scanning sonar measurements.
+In this part, you will work with raw sonar data from a Sonar. The data is provided in CSV format and contains mechanical scanning sonar measurements.
 
 **Your tasks:**
 
