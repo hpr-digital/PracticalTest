@@ -31,7 +31,7 @@ In this part, you will work with raw sonar data. The data is provided in CSV for
 
 ### Part 2: Depth Estimation from Images (50%)
 
-In this part, you will work with underwater images captured by a 360° camera (Insta360 X4) mounted on an ROV.
+In this part, you will work with underwater images captured by a underwater camera mounted on an ROV.
 
 **Your tasks:**
 
