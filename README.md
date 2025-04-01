@@ -23,11 +23,11 @@ In this part, you will work with raw sonar data from an ISP360 Profiling Sonar. 
 4. Briefly explain your approach to processing and visualising the data
 
 **Sonar Specifications:**
-- ISP360 Profiling Sonar
+- Mechanical Scanning Profiling Sonar
 - 1° Acoustic Angular Resolution
 - 80 Metre Range Capability
 - 0.35mm Timing Accuracy
-- Mechanical 360° scanning
+- 360° scanning capability
 
 ### Part 2: Depth Estimation from Images (50%)
 
