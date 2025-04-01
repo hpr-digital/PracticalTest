@@ -41,24 +41,7 @@ In this part, you will work with underwater images captured by a underwater came
 4. Briefly explain your choice of model and any adaptations you made for underwater imagery
 
 ## Deliverables
-
-Please provide the following:
-
-1. **Source Code**: Well-documented code that:
-   - Processes and visualises the sonar data
-   - Applies depth estimation to the underwater images
-
-2. **Visualisations**:
-   - Sonar data visualisation(s)
-   - Depth estimation visualisation(s)
-
-3. **Brief Report** (max 2 pages):
-   - Explanation of your approach for both parts
-   - Interpretation of the visualisations
-   - Discussion of challenges and limitations
-   - Any assumptions made during the analysis
-
-4. **Presentation** (15 minutes):
+**Presentation** (15 minutes):
    - Prepare a short presentation of your work
    - Include key visualisations and findings
    - Be prepared to explain your technical approach
