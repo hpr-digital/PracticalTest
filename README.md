@@ -40,6 +40,8 @@ In this part, you will work with underwater images captured by a underwater came
 3. Discuss the challenges and limitations of depth estimation in underwater environments
 4. Briefly explain your choice of model and any adaptations you made for underwater imagery
 
+*You might want to use google colab for this. 
+
 ## Deliverables
 **Presentation** (15 minutes):
    - Prepare a short presentation of your work
